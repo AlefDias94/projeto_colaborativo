@@ -1,0 +1,6 @@
+Sempre que houver alteração no código, devemos dar o seguintes comandos para subir para o Github;
+git add .
+git commit -m "Quantidade commit"
+git push
+
+Após, verificar no Github se a alteração subiu.
