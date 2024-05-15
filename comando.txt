@@ -1,0 +1,8 @@
+git init
+git config --global user.name "seu nome"
+git config --global user.email "seu email"
+git add .
+git commit -m "Primeiro commit"
+git remote add origin https://github.com/AlefDias94/projeto_colaborativo.git
+git branch -m main
+git push -u origin main

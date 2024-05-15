@@ -1,4 +1,3 @@
 Aula Github
-git init
-git config --global user.name "seu nome"
-git config --global user.email "seu email"
+Criação de conta
+vinculação vscode x github
